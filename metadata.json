@@ -1,0 +1,6 @@
+{
+  "name": "Geo Quest",
+  "description": "A light-weight, location-based puzzle-adventure played from any browser. Pan/zoom, drop pins, and solve clue-driven quest puzzles tailored by Gemini AI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
